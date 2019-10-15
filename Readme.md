@@ -50,5 +50,3 @@ Taking [fast.ai](http://www.fast.ai/) courses series as it focuses more on the p
 <br/>
 
 <br/>
-
-Mahmoud Badry @ 2018
