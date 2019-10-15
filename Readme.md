@@ -36,11 +36,7 @@ The list of reviews includes:
 
 
 
-A good Facebook group that discusses the courses are here: https://www.facebook.com/groups/DeepLearningAISpecialization/.
-
-Group description:
-
-> This group is for current, past or future students of Prof Andrew Ng's deeplearning.ai class in Coursera. The purpose is for students to get to know each other, ask questions, and share insights. However, remember the Coursera Honor Code - please do not post any solution in the forum! 
+A good Facebook group that discusses the courses: https://www.facebook.com/groups/DeepLearningAISpecialization/.
 
 
 
