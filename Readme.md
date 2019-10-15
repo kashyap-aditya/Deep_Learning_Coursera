@@ -1,7 +1,5 @@
 # DeepLearning.ai Courses Notes
 
-This repository contains my personal notes and summaries on [DeepLearning.ai](https://deeplearning.ai) specialization courses. I've enjoyed every little bit of the course hope you enjoy my notes too.
-
 [DeepLearning.ai](https://deeplearning.ai)  contains five courses which can be taken on [Coursera](https://www.coursera.org/specializations/deep-learning). The five courses titles are:
 
 1. Neural Networks and Deep Learning.
@@ -10,36 +8,14 @@ This repository contains my personal notes and summaries on [DeepLearning.ai](ht
 4. Convolutional Neural Networks.
 5. Sequence Models.
 
-This is by far the best course series on deep learning that I've taken. Enjoy!
-
-
-
-## About This Specialization (From the official Deep Learning Specialization page)
-
-> If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
->
-> In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.
->
-> You will also hear from many top leaders in Deep Learning, who will share with you their personal stories and give you career advice.
->
-> AI is transforming multiple industries. After finishing this specialization, you will likely find creative ways to apply it to your work.
->
-> We will help you master Deep Learning, understand how to apply it, and build a career in AI.
-
-
 
 ## Specialization Certificate
 
-At last I've successfully completed the specialization and earned my [certificate](https://coursera.org/verify/specialization/DTTJC9Y5B8U6)!
+I've successfully completed the specialization and earned my [certificate](https://coursera.org/verify/specialization/DTTJC9Y5B8U6)!
 
 ![](Certificate.png)
 
 
-
-## Similar Notes
-
-- Beautifully drawn notes by Tess Ferrandez:
-  - https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng
 
 ## Reviews
 
@@ -72,9 +48,6 @@ Group description:
 
 Taking [fast.ai](http://www.fast.ai/) courses series as it focuses more on the practical works.
 
-## Acknowledgements
-
-Thanks to [VladKha](https://github.com/VladKha), [wangzhenhui1992](https://github.com/wangzhenhui1992), [jarpit96](https://github.com/jarpit96), and other contributors for helping me revising and fixing mistakes in the notes.
 
 <br/>
 
