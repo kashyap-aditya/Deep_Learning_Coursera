@@ -35,14 +35,17 @@ The list of reviews includes:
 - [Learning Deep Learning — fast.ai vs. deeplearning.ai](https://medium.com/@markryan_69718/learning-deep-learning-fast-ai-vs-deeplearning-ai-34f9c42cf701)
 
 
-
-A good Facebook group that discusses the courses: https://www.facebook.com/groups/DeepLearningAISpecialization/.
+A Facebook group that discusses the courses: https://www.facebook.com/groups/DeepLearningAISpecialization/.
 
 
 
 ## Next steps
 
-Taking [fast.ai](http://www.fast.ai/) courses series as it focuses more on the practical works.
+TensorFlow Specialization
+Look into fast.ai
+IBM Applied AI professional certificate
+Udacity course?
+Kaggle Competition
 
 
 <br/>
