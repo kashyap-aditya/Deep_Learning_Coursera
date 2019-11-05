@@ -11,7 +11,7 @@
 
 ## Specialization Certificate
 
-I've successfully completed the specialization and earned my [certificate](https://coursera.org/verify/specialization/DTTJC9Y5B8U6)!
+I've successfully completed the specialization and earned my [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/J94DP7VUMTGR)!
 
 ![](Certificate.png)
 
