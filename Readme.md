@@ -41,11 +41,11 @@ A Facebook group that discusses the courses: https://www.facebook.com/groups/Dee
 
 ## Next steps
 
-TensorFlow Specialization
-Look into fast.ai
-IBM Applied AI professional certificate
-Udacity course?
-Kaggle Competition
+TensorFlow Specialization <br/>
+Look into fast.ai  
+IBM Applied AI professional certificate  
+Udacity course?  
+Kaggle Competition  
 
 
 <br/>
