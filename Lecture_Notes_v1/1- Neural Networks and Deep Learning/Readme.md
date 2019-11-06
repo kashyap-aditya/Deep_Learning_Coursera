@@ -75,7 +75,7 @@ Here are the course summary as its given on the course [link](https://www.course
 - Actually, when w⋅x+b=0 the perceptron outputs 0.
 - Disadvantage of perceptron is that it only output binary values and if we try to give small change in weight and bais then perceptron can flip the output. We need some system which can modify the output slightly according to small change in weight and bias. Here comes sigmoid function in picture.
 - If we change perceptron with a sigmoid function, then we can make slight change in output.
-- e.g. output in perceptron = 0, you slightly changed weight and bias, output becomes = 1 but actual output is 0.7. In case of sigmoid, output1 = 0, slight change in weight and bias, output = 0.7. 
+- e.g. output in perceptron = 0, you slightly changed weight and bias, output becomes = 1 but actual output is 0.7. In case of sigmoid, output1 = 0, slight change in weight and bias, output = 0.7.
 - If we apply sigmoid activation function then Single neuron will act as Logistic Regression.
 -  we can understand difference between perceptron and sigmoid function by looking at sigmoid function graph.
 
@@ -311,7 +311,7 @@ Here are the course summary as its given on the course [link](https://www.course
 - In NumPy, `obj.reshape(1,4)` changes the shape of the matrix by broadcasting the values.
 - Reshape is cheap in calculations so put it everywhere you're not sure about the calculations.
 - Broadcasting works when you do a matrix operation with matrices that doesn't match for the operation, in this case NumPy automatically makes the shapes ready for the operation by broadcasting the values.
-- In general principle of broadcasting. If you have an (m,n) matrix and you add(+) or subtract(-) or multiply(*) or divide(/) with a (1,n) matrix, then this will copy it m times into an (m,n) matrix. The same with if you use those operations with a (m , 1) matrix, then this will copy it n times into (m, n) matrix. And then apply the addition, subtraction, and multiplication of division element wise.
+- In general principle of broadcasting. If you have an (m,n) matrix and you add(+) or subtract(-) or multiply or divide(/) with a (1,n) matrix, then this will copy it m times into an (m,n) matrix. The same with if you use those operations with a (m , 1) matrix, then this will copy it n times into (m, n) matrix. And then apply the addition, subtraction, and multiplication of division element wise.
 - Some tricks to eliminate all the strange bugs in the code:
   - If you didn't specify the shape of a vector, it will take a shape of `(m,)` and the transpose operation won't work. You have to reshape it to `(m, 1)`
   - Try to not use the rank one matrix in ANN
@@ -697,8 +697,7 @@ Here are the course summary as its given on the course [link](https://www.course
 
 
 
-
-
 <br><br>
 <br><br>
 These Notes were made by [Mahmoud Badry](mailto:mma18@fayoum.edu.eg) @2017
+Further modifications
