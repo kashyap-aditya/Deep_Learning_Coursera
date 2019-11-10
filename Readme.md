@@ -308,7 +308,7 @@ I have built upon [Mahmoud Badry's](https://github.com/mbadry1/DeepLearning.ai-S
 Contains verbatim the headers for all the notebooks for reference.
 
 ## Table of contents
-   * [Course 1: Neural Networks and Deep Learning](#neural-networks-and-deep-learning)
+   * [Course 1: Neural Networks and Deep Learning](#course-1-neural-networks-and-deep-learning)
       * [Python Basics with Numpy (optional assignment)](#python-basics-with-numpy-optional-assignment)
       * [Logistic Regression with a Neural Network mindset](#logistic-regression-with-a-neural-network-mindset)
       * [Planar data classification with one hidden layer](#planar-data-classification-with-one-hidden-layer)
