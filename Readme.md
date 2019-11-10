@@ -23,7 +23,7 @@ I have built upon [Mahmoud Badry's](https://github.com/mbadry1/DeepLearning.ai-S
 
 ## Table of contents
  * [Week 1: Introduction to deep learning](#introduction-to-deep-learning)
-    * [What is a (Neural Network) NN?](#what-is-a-neural-network-nn)
+    * [What is a (Neural Network) NN?](https://github.com/kashyap-aditya/Deep_Learning_Coursera/tree/master/Lecture_Notes_v1/1-%20Neural%20Networks%20and%20Deep%20Learning#what-is-a-neural-network-nn)
     * [Supervised learning with neural networks](#supervised-learning-with-neural-networks)
     * [Why is deep learning taking off?](#why-is-deep-learning-taking-off)
     * Quiz
